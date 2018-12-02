@@ -93,5 +93,11 @@ $.stellar({
 
 ```
 bower install jquery.stellar  
+
+npm install
+grunt
+grunt test
+grunt lint
+grunt watch
 ```
 
