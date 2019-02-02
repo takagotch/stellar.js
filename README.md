@@ -91,7 +91,7 @@ $.stellar({
      data-steller-vertical-offset="150">
 ```
 
-```
+```sh
 bower install jquery.stellar  
 
 npm install
